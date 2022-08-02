@@ -1,0 +1,6 @@
+framework module Pods_LXFrame {
+  umbrella header "Pods-LXFrame-umbrella.h"
+
+  export *
+  module * { export * }
+}
